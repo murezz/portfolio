@@ -317,12 +317,6 @@ nav #navbarNavAltMarkup .navbar-nav a:hover {
 }
 
 @media screen and (max-width: 992px) {
-  .copyright {
-    margin-bottom: 50px;
-  }
-}
-
-@media screen and (max-width: 992px) {
   #coming-soon .content img {
     width: 300px;
   }
